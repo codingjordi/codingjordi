@@ -121,7 +121,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
     </td>
     <td align="center">
       <p>Linux</p>
-      <img src="https://skillicons.dev/icons?i=vite&linux=dark" height="40px" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40px" alt="Linux" />
     </td>
   </tr>
 </table>
