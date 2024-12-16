@@ -3,7 +3,7 @@
 <h2> Hi, there... Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=500&size=44&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=820&height=100&lines=I+'+m+a+Junior+Front+End+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Always+craving+for+new+knowladge+%F0%9F%A7%A0;(and+also+ice-cream%2C+let's+be+honest...)+%F0%9F%8D%A6" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=500&size=44&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=820&height=100&lines=I'm+a+Junior+Front+End+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Always+craving+for+new+knowladge+%F0%9F%A7%A0;(and+also+ice-cream%2C+let's+be+honest...)+%F0%9F%8D%A6" alt="Typing SVG" /></a>
 </p>
 </div>
 
