@@ -103,13 +103,13 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 
 <table>
   <tr>
+    <td align="center">
+      <p>Linux</p>
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40px" alt="Linux" />
+    </td>
 <td align="center">
       <p>Postman</p>
       <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40px" alt="Jest" />
-    </td>
-    <td align="center">
-      <p>Photoshop</p>
-      <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="40px" alt="TypeScript" />
     </td>
     <td align="center">
       <p>Markdown</p>
@@ -120,9 +120,10 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="40px" alt="Notion" />
     </td>
     <td align="center">
-      <p>Linux</p>
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40px" alt="Linux" />
+      <p>Photoshop</p>
+      <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="40px" alt="TypeScript" />
     </td>
+    
   </tr>
 </table>
 
