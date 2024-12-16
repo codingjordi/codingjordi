@@ -21,27 +21,19 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 
   <div>
     <p>HTML</p>
-    <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML" />
-    </a>
   </div>
   <div>
     <p>CSS</p>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40px" alt="CSS" />
-    </a>
   </div>
   <div>
     <p>JavaScript</p>
-    <a href="https://ecma-international.org/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" />
-    </a>
   </div>
   <div>
     <p>TypeScript</p>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" />
-    </a>
   </div>
   <div>
     <p>React</p>
