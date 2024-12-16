@@ -119,22 +119,9 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="40px" alt="Notion" />
     </td>
     <td align="center">
-      <p>Git</p>
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40px" alt="Git" />
+      <p>Vite</p>
+      <img src="https://skillicons.dev/icons?i=vite&theme=dark" height="40px" alt="Git" />
     </td>
-    
-  <td align="center">
-      <p>AWS</p>
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40px" alt="Amazon Web Services" />
-  </td>
-  <td align="center">
-      <p>Firebase</p>
-      <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="Firebase" />
-  </td>
-  <td align="center">
-      <p>Figma</p>
-      <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
-  </td>
   </tr>
 </table>
 
