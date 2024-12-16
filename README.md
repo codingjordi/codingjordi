@@ -1,5 +1,4 @@
 <div align="center">
-<img src='https://i.postimg.cc/t42CWp7j/original-81427c44c3bb53199e8c3db7196ffd9a.png'>
   
 <h2><code color='green'>Hello world...</code> Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
