@@ -17,27 +17,89 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 
 <b>JavaScript is</b>, <del>and always will be</del>, my favorite programming language because of its versatility. It empowers me to build dynamic and interactive user interfaces, as well as backend services, all with one powerful language. <b>I call it "the developers' 3-in-1"🏆</b>
 
-<h2>Luangages and dev tools</h2>
+<h2>Languages and dev tools</h2>
 
 <div align="center">
   <div>
     <p>HTML</p>
-    <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML" /></a>
+    <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML" />
+    </a>
   </div>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40px" alt="CSS" /></a>
-<a href="https://ecma-international.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40px" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40px" alt="Bootstrap"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40px" alt="Tailwind"/></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass&theme=dark" height="40px" alt="SASS" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40px"  alt="Git" /></a>
-<a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="jest" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="redux" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="figma" /></a>
+  <div>
+    <p>CSS</p>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40px" alt="CSS" />
+    </a>
+  </div>
+  <div>
+    <p>JavaScript</p>
+    <a href="https://ecma-international.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" />
+    </a>
+  </div>
+  <div>
+    <p>TypeScript</p>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" />
+    </a>
+  </div>
+  <div>
+    <p>React</p>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40px" alt="React" />
+    </a>
+  </div>
+  <div>
+    <p>Bootstrap</p>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40px" alt="Bootstrap" />
+    </a>
+  </div>
+  <div>
+    <p>Tailwind</p>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40px" alt="Tailwind" />
+    </a>
+  </div>
+  <div>
+    <p>SASS</p>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=sass&theme=dark" height="40px" alt="SASS" />
+    </a>
+  </div>
+  <div>
+    <p>Git</p>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40px" alt="Git" />
+    </a>
+  </div>
+  <div>
+    <p>Jest</p>
+    <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="Jest" />
+    </a>
+  </div>
+  <div>
+    <p>Redux</p>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="Redux" />
+    </a>
+  </div>
+  <div>
+    <p>Firebase</p>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="Firebase" />
+    </a>
+  </div>
+  <div>
+    <p>Figma</p>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
+    </a>
+  </div>
 </div>
+
 
 
 <!--
