@@ -18,7 +18,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 <b>JavaScript is</b>, <del>and always will be</del>, my favorite programming language because of its versatility. It empowers me to build dynamic and interactive user interfaces, as well as backend services, all with one powerful language. <b>I call it "the developers' 3-in-1"🏆</b>
 
 <h2>Languages and dev tools</h2>
-
+<div>
   <div>
     <p>HTML</p>
       <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML" />
@@ -71,6 +71,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
     <p>Figma</p>
       <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
   </div>
+</div>
 
 <h2>Stats</h2>
 
