@@ -17,7 +17,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 
 <b>JavaScript is</b>, <del>and always will be</del>, my favorite programming language because of its versatility. It empowers me to build dynamic and interactive user interfaces, as well as backend services, all with one powerful language. <b>I call it "the developers' 3-in-1"🏆</b>
 
-<h2>Languages and dev tools</h2>
+<h2>Languages</h2>
 
 <table>
   <tr>
@@ -33,15 +33,12 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>JavaScript</p>
       <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" />
     </td>
-    <td align="center">
-      <p>TypeScript</p>
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" />
-    </td>
-    <td align="center">
-      <p>React</p>
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40px" alt="React" />
-    </td>
   </tr>
+</table>
+
+<h2>Frameworks and Libraries</h2>
+
+<table>
   <tr>
     <td align="center">
       <p>Bootstrap</p>
@@ -52,8 +49,27 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40px" alt="Tailwind" />
     </td>
     <td align="center">
-      <p>SASS</p>
-      <img src="https://skillicons.dev/icons?i=sass&theme=dark" height="40px" alt="SASS" />
+      <p>React</p>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40px" alt="React" />
+    </td>
+    <td align="center">
+      <p>Redux</p>
+      <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="Redux" />
+    </td>
+  </tr>
+</table>
+
+<h2>Dev Tools</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <p>TypeScript</p>
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" />
+    </td>
+    <td align="center">
+      <p>Sass</p>
+      <img src="https://skillicons.dev/icons?i=sass&theme=dark" height="40px" alt="Sass" />
     </td>
     <td align="center">
       <p>Git</p>
@@ -63,22 +79,17 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Jest</p>
       <img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="Jest" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <p>Redux</p>
-      <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="Redux" />
+      <p>Figma</p>
+      <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
     </td>
     <td align="center">
       <p>Firebase</p>
       <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="Firebase" />
     </td>
-    <td align="center">
-      <p>Figma</p>
-      <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
-    </td>
   </tr>
 </table>
+
 
 
 <h2>Stats</h2>
