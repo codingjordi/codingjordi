@@ -102,6 +102,10 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 
 <table>
   <tr>
+<td align="center">
+      <p>Postman</p>
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40px" alt="Jest" />
+    </td>
     <td align="center">
       <p>Photoshop</p>
       <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="40px" alt="TypeScript" />
@@ -118,10 +122,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Git</p>
       <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40px" alt="Git" />
     </td>
-    <td align="center">
-      <p>Jest</p>
-      <img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="Jest" />
-    </td>
+    
   <td align="center">
       <p>AWS</p>
       <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40px" alt="Amazon Web Services" />
