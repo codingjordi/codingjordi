@@ -9,7 +9,7 @@
 
 <h2>About</h2>
 
-My name is <a href="https://www.linkedin.com/in/jordi-saperas-castro/">Jordi</a>, and I’m a passionate and dedicated <b>Junior Front-End developer</b> with a focus on <b>React</b> and UX/UI. 
+My name is Jordi, and I’m a passionate and dedicated <b>Junior Front-End developer</b> with a focus on <b>React</b> and UX/UI. 
 <br>
 <br>
 On my daily basis, I make it a priority to practice and sharpen the skills I’ve already acquired in various technologies. My guiding principle is to write clean code that remains both maintainable, scalable and efficient. 
