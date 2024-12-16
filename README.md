@@ -20,7 +20,11 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 <h2>Luangages and dev tools</h2>
 
 <div align="center">
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML" /></a>
+  <div>
+    <p>HTML</p>
+    <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML" /></a>
+  </div>
+
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40px" alt="CSS" /></a>
 <a href="https://ecma-international.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" /></a>
@@ -31,7 +35,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40px"  alt="Git" /></a>
 <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="jest" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="redux" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="firebase" />Firebase</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="figma" /></a>
 </div>
 
