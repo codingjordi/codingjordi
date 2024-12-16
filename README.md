@@ -120,8 +120,8 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="40px" alt="Notion" />
     </td>
     <td align="center">
-      <p>Vite</p>
-      <img src="https://skillicons.dev/icons?i=vite&theme=dark" height="40px" alt="Git" />
+      <p>Linux</p>
+      <img src="https://skillicons.dev/icons?i=vite&linux=dark" height="40px" alt="Linux" />
     </td>
   </tr>
 </table>
