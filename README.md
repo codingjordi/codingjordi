@@ -95,7 +95,41 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Figma</p>
       <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
   </td>
+  </tr>
+</table>
 
+<h2>Others</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <p>Photoshop</p>
+      <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="40px" alt="TypeScript" />
+    </td>
+    <td align="center">
+      <p>Notion</p>
+      <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="40px" alt="Sass" />
+    </td>
+    <td align="center">
+      <p>Git</p>
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40px" alt="Git" />
+    </td>
+    <td align="center">
+      <p>Jest</p>
+      <img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="Jest" />
+    </td>
+  <td align="center">
+      <p>AWS</p>
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40px" alt="Amazon Web Services" />
+  </td>
+  <td align="center">
+      <p>Firebase</p>
+      <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="Firebase" />
+  </td>
+  <td align="center">
+      <p>Figma</p>
+      <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
+  </td>
   </tr>
 </table>
 
