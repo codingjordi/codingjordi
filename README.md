@@ -107,8 +107,12 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="40px" alt="TypeScript" />
     </td>
     <td align="center">
+      <p>Markdown</p>
+      <img src="https://skillicons.dev/icons?i=markdown&theme=dark" height="40px" alt="Markdown" />
+    </td>
+    <td align="center">
       <p>Notion</p>
-      <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="40px" alt="Sass" />
+      <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="40px" alt="Notion" />
     </td>
     <td align="center">
       <p>Git</p>
