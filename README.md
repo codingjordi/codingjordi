@@ -85,7 +85,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
     </td>
   <td align="center">
       <p>AWS</p>
-      <img src="https://skillicons.dev/icons?i=aws&theme=light" height="40px" alt="Amazon Web Services" />
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40px" alt="Amazon Web Services" />
   </td>
   <td align="center">
       <p>Firebase</p>
