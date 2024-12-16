@@ -103,7 +103,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codingjordi&layout=compact&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codingjordi&layout=compact&theme=onedark" />
 </a>
   
 </div>
