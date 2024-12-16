@@ -15,7 +15,7 @@ My name is Jordi, and I’m a passionate and dedicated <b>Junior Front-End devel
 On my daily basis, I make it a priority to practice and sharpen the skills I’ve already acquired in various technologies. My guiding principle is to write clean code that remains both maintainable, scalable and efficient. 
 <br>
 
-<b>JavaScript is</b>, <del>and always will be</del>, my favorite programming language because of its versatility. It empowers me to build dynamic and interactive user interfaces, as well as backend services, all with one powerful language. <i>I call it "the developers' 3-in-1" 🏆</i>
+<b>JavaScript is</b>, <del>and always will be</del>, my favorite programming language because of its versatility. It empowers me to build dynamic and interactive user interfaces, as well as backend services, all with one powerful language. <i>I call it "the developers' 3-in-1"</i> 🏆
 
 <h2>Languages</h2>
 
