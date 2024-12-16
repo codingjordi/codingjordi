@@ -18,60 +18,68 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 <b>JavaScript is</b>, <del>and always will be</del>, my favorite programming language because of its versatility. It empowers me to build dynamic and interactive user interfaces, as well as backend services, all with one powerful language. <b>I call it "the developers' 3-in-1"🏆</b>
 
 <h2>Languages and dev tools</h2>
-<div>
-  <div>
-    <p>HTML</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <p>HTML</p>
       <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40px" alt="HTML" />
-  </div>
-  <div>
-    <p>CSS</p>
+    </td>
+    <td align="center">
+      <p>CSS</p>
       <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40px" alt="CSS" />
-  </div>
-  <div>
-    <p>JavaScript</p>
+    </td>
+    <td align="center">
+      <p>JavaScript</p>
       <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40px" alt="JavaScript" />
-  </div>
-  <div>
-    <p>TypeScript</p>
+    </td>
+    <td align="center">
+      <p>TypeScript</p>
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" />
-  </div>
-  <div>
-    <p>React</p>
+    </td>
+    <td align="center">
+      <p>React</p>
       <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40px" alt="React" />
-  </div>
-  <div>
-    <p>Bootstrap</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Bootstrap</p>
       <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40px" alt="Bootstrap" />
-  </div>
-  <div>
-    <p>Tailwind</p>
+    </td>
+    <td align="center">
+      <p>Tailwind</p>
       <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40px" alt="Tailwind" />
-  </div>
-  <div>
-    <p>SASS</p>
+    </td>
+    <td align="center">
+      <p>SASS</p>
       <img src="https://skillicons.dev/icons?i=sass&theme=dark" height="40px" alt="SASS" />
-  </div>
-  <div>
-    <p>Git</p>
+    </td>
+    <td align="center">
+      <p>Git</p>
       <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40px" alt="Git" />
-  </div>
-  <div>
-    <p>Jest</p>
+    </td>
+    <td align="center">
+      <p>Jest</p>
       <img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="Jest" />
-  </div>
-  <div>
-    <p>Redux</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Redux</p>
       <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="Redux" />
-  </div>
-  <div>
-    <p>Firebase</p>
+    </td>
+    <td align="center">
+      <p>Firebase</p>
       <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="Firebase" />
-  </div>
-  <div>
-    <p>Figma</p>
+    </td>
+    <td align="center">
+      <p>Figma</p>
       <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
 
 <h2>Stats</h2>
 
