@@ -56,10 +56,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Redux</p>
       <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="Redux" />
     </td>
-    <td align="center">
-      <p>Next.js</p>
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40px" alt="Firebase" />
-    </td>
+    
   </tr>
 </table>
 
@@ -125,7 +122,24 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
   </tr>
 </table>
 
+<h2>Currently learning</h2>
 
+<table>
+  <tr>
+<td align="center">
+      <p>MySQL</p>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40px" alt="Jest" />
+    </td>
+    <td align="center">
+      <p>Next.js</p>
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40px" alt="Firebase" />
+    </td>
+    <td align="center">
+      <p>Angular</p>
+      <img src="https://skillicons.dev/icons?i=angular&theme=dark" height="40px" alt="TypeScript" />
+    </td>
+  </tr>
+</table>
 
 
 <h2>Stats</h2>
