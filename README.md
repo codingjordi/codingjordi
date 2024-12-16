@@ -19,7 +19,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 
 <h2>Languages and dev tools</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div>
     <p>HTML</p>
     <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
