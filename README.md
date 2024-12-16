@@ -56,6 +56,10 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Redux</p>
       <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="Redux" />
     </td>
+    <td align="center">
+      <p>Express</p>
+      <img src="https://skillicons.dev/icons?i=express&theme=light" height="40px" alt="Express" />
+    </td>
     
   </tr>
 </table>
