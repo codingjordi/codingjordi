@@ -8,13 +8,13 @@
 </div>
 
 
-My name is <a href="https://www.linkedin.com/in/jordi-saperas-castro/">Jordi</a>, and I’m a passionate and dedicated Front-End developer with a focus on React and UX/UI. 
+My name is <a href="https://www.linkedin.com/in/jordi-saperas-castro/">Jordi</a>, and I’m a passionate and dedicated <b>Junior Front-End developer</b> with a focus on <b>React</b> and UX/UI. 
 <br>
 <br>
 On my daily basis, I make it a priority to practice and sharpen the skills I’ve already acquired in various technologies. My guiding principle is to write clean code that remains both maintainable, scalable and efficient. 
 <br>
 
-JavaScript is, <del>and always will be</del>, my favorite programming language because of its versatility. It empowers me to build dynamic and interactive user interfaces, as well as backend services, all with one powerful language. I call it "the 3-in-1" for developers 🏆
+<b>JavaScript is</b>, <del>and always will be</del>, my favorite programming language because of its versatility. It empowers me to build dynamic and interactive user interfaces, as well as backend services, all with one powerful language. <b>I call it "the developers' 3-in-1"🏆</b>
 
 
 
