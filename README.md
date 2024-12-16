@@ -87,8 +87,14 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Firebase</p>
       <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="Firebase" />
     </td>
+    <td align="center">
+      <p>Next.js</p>
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40px" alt="Firebase" />
+    </td>
   </tr>
 </table>
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
