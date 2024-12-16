@@ -83,7 +83,10 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Jest</p>
       <img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="Jest" />
     </td>
-    
+  <td align="center">
+      <p>AWS</p>
+      <img src="https://skillicons.dev/icons?i=aws&theme=light" height="40px" alt="Amazon Web Services" />
+  </td>
   <td align="center">
       <p>Firebase</p>
       <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="40px" alt="Firebase" />
@@ -96,7 +99,6 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
   </tr>
 </table>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
