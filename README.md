@@ -141,10 +141,6 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Next.js</p>
       <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40px" alt="Firebase" />
     </td>
-    <td align="center">
-      <p>Angular</p>
-      <img src="https://skillicons.dev/icons?i=angular&theme=dark" height="40px" alt="TypeScript" />
-    </td>
   </tr>
 </table>
 
