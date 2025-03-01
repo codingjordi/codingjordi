@@ -55,7 +55,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40px" alt="React" />
     </td>
     <td align="center">
-      <p>Redux</p>
+      <p>TanStack Query</p>
       <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="Redux" />
     </td>
     <td align="center">
