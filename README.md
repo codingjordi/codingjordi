@@ -43,10 +43,6 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
 <table>
   <tr>
     <td align="center">
-      <p>Bootstrap</p>
-      <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40px" alt="Bootstrap" />
-    </td>
-    <td align="center">
       <p>Tailwind</p>
       <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40px" alt="Tailwind" />
     </td>
@@ -73,10 +69,6 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
     <td align="center">
       <p>TypeScript</p>
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40px" alt="TypeScript" />
-    </td>
-    <td align="center">
-      <p>Sass</p>
-      <img src="https://skillicons.dev/icons?i=sass&theme=dark" height="40px" alt="Sass" />
     </td>
     <td align="center">
       <p>Git</p>
