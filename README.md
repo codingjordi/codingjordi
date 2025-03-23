@@ -75,8 +75,8 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40px" alt="Git" />
     </td>
     <td align="center">
-      <p>Jest</p>
-      <img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40px" alt="Jest" />
+      <p>Vitest</p>
+      <img src="https://skillicons.dev/icons?i=vitest&theme=dark" height="40px" alt="Jest" />
     </td>
   <td align="center">
       <p>AWS</p>
