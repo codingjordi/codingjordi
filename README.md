@@ -86,10 +86,6 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Supabase</p>
       <img src="https://skillicons.dev/icons?i=supabase&theme=light" height="40px" alt="Firebase" />
   </td>
-  <td align="center">
-      <p>Figma</p>
-      <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
-  </td>
   </tr>
 </table>
 
@@ -109,10 +105,18 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <p>Markdown</p>
       <img src="https://skillicons.dev/icons?i=markdown&theme=dark" height="40px" alt="Markdown" />
     </td>
+   <td align="center">
+      <p>Jira</p>
+      <img src="https://skillicons.dev/icons?i=jira&theme=light" height="40px" alt="Figma" />
+  </td>
     <td align="center">
       <p>Notion</p>
       <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="40px" alt="Notion" />
     </td>
+<td align="center">
+      <p>Figma</p>
+      <img src="https://skillicons.dev/icons?i=figma&theme=light" height="40px" alt="Figma" />
+  </td>
     <td align="center">
       <p>Photoshop</p>
       <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="40px" alt="TypeScript" />
