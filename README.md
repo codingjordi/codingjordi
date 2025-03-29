@@ -107,7 +107,7 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
     </td>
    <td align="center">
       <p>Jira</p>
-      <img src="https://skillicons.dev/icons?i=jira&theme=light" height="40px" alt="Figma" />
+      <img src="https://i.postimg.cc/T145mrg3/jira-logo-icon-147274.png" height="40px" alt="Jira" />
   </td>
     <td align="center">
       <p>Notion</p>
