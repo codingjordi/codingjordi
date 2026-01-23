@@ -131,11 +131,15 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
   <tr>
 <td align="center">
       <p>MySQL</p>
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40px" alt="Jest" />
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40px" alt="MySQL" />
     </td>
     <td align="center">
       <p>Next.js</p>
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40px" alt="Firebase" />
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40px" alt="Next.js" />
+    </td>
+   <td align="center">
+      <p>Java SE</p>
+      <img src="https://skillicons.dev/icons?i=java&theme=light" height="40px" alt="Java" />
     </td>
   </tr>
 </table>
