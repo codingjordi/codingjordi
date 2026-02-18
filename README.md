@@ -51,14 +51,17 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
       <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40px" alt="React" />
     </td>
     <td align="center">
-      <p>TanStack Query</p>
-      <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="Redux" />
-    </td>
-    <td align="center">
       <p>Express</p>
       <img src="https://skillicons.dev/icons?i=express&theme=light" height="40px" alt="Express" />
     </td>
-    
+    <td align="center">
+      <p>Next.js</p>
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="40px" alt="Next.js" />
+    </td>
+    <td align="center">
+      <p>TanStack Query</p>
+      <img src="https://skillicons.dev/icons?i=redux&theme=light" height="40px" alt="Redux" />
+    </td>    
   </tr>
 </table>
 
@@ -140,6 +143,10 @@ On my daily basis, I make it a priority to practice and sharpen the skills I’v
    <td align="center">
       <p>Java SE</p>
       <img src="https://skillicons.dev/icons?i=java&theme=light" height="40px" alt="Java" />
+    </td>
+   <td align="center">
+      <p>Spring Boot</p>
+      <img src="https://skillicons.dev/icons?i=spring&theme=light" height="40px" alt="Java" />
     </td>
   </tr>
 </table>
